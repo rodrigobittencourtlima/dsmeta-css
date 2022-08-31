@@ -44,3 +44,17 @@ header {
     font-size: 14px;
     font-weight: 300;
 }
+
+.dsmeta-card {
+    background-color: #283142;
+}
+
+.dsmeta-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#sales {
+    padding: 40px 10px;
+}
